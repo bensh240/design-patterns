@@ -1,0 +1,10 @@
+Avi,Ron,03/18/1980,aviron@gmail.com,Christianity,Raanana,Israel,32.18,34.87
+Cristiano,Ronaldo,04/12/1977,Cristiano@gmail.com,Christianity,Ramla,Israel,31.93,34.87
+Leo,Messi,04/12/1912,Messi@hotmail.com,Islam,Lod,Israel,31.95,34.98
+Ami,Tami,12/11/2020,eee@hotmail.com,Judaism,Roma,Italy,41.90,12.49
+nana,banana,08/20/2019,banana@walla.co.il,Judaism,Portland,USA,45.51,-122.67
+Nir,Ga,07/20/2019,Nir@gmail.com,Islam,Madrid,Spain,40.41,-3.70
+Coco,Loco,06/25/1982,coco11@gmail.com,Christianity,Tel Aviv, Israel,32.08,34.78
+Roee,Cohen,06/25/1980,Cccohen@hotmail.com,Christianity,Barcelona,Spain,41.38,2.16
+Jhon,Smith,05/21/1999,js@gmail.com,Judaism,Madrid,Spain,40.41,-3.70
+Ben,Levi,04/03/2000,levi@gmail.com,Judaism,London,England,51.50,-0.12
